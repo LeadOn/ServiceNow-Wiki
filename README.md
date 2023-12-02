@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" style="width: 256px" alt="LeadOn's logo" /></p>
+<p align="center"><img src="logo-leadon-wiki.png" style="width: 256px" alt="LeadOn's Wiki logo" /></p>
 
 <h1 align="center">LeadOn's Wiki</h1>
 
